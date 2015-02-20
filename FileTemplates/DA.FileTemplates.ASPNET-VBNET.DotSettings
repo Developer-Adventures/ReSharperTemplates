@@ -1,0 +1,313 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF5FE2FE69AC4944BB6C55369553C527/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF5FE2FE69AC4944BB6C55369553C527/Description/@EntryValue">Web form without master page</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF5FE2FE69AC4944BB6C55369553C527/Text/@EntryValue">&lt;%@ Page Language="VB" %&gt;&#xD;
+&#xD;
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;&#xD;
+&#xD;
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;&#xD;
+&lt;head runat="server"&gt;&#xD;
+    &lt;title&gt;$Title$&lt;/title&gt;&#xD;
+&lt;/head&gt;&#xD;
+&lt;body&gt;&#xD;
+    &lt;form id="$form1$" runat="server"&gt;&#xD;
+    &lt;div&gt;&#xD;
+    $END$&#xD;
+    &lt;/div&gt;&#xD;
+    &lt;/form&gt;&#xD;
+&lt;/body&gt;&#xD;
+&lt;/html&gt;&#xD;
+</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF5FE2FE69AC4944BB6C55369553C527/CustomProperties/=FileName/@EntryIndexedValue">WebForm</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF5FE2FE69AC4944BB6C55369553C527/CustomProperties/=Extension/@EntryIndexedValue">aspx</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF5FE2FE69AC4944BB6C55369553C527/CustomProperties/=ValidateFileName/@EntryIndexedValue">True</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF5FE2FE69AC4944BB6C55369553C527/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF5FE2FE69AC4944BB6C55369553C527/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF5FE2FE69AC4944BB6C55369553C527/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/Type/@EntryValue">InAspVBProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF5FE2FE69AC4944BB6C55369553C527/Field/=Title/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF5FE2FE69AC4944BB6C55369553C527/Field/=Title/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF5FE2FE69AC4944BB6C55369553C527/Field/=form1/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF5FE2FE69AC4944BB6C55369553C527/Field/=form1/Expression/@EntryValue">suggestVariableName()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF5FE2FE69AC4944BB6C55369553C527/Field/=form1/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B6ECE0162C674C48994C86D57E73E343/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B6ECE0162C674C48994C86D57E73E343/Description/@EntryValue">Web form with master page</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B6ECE0162C674C48994C86D57E73E343/Text/@EntryValue">&lt;%@ Page Title="$Title$" Language="VB" MasterPageFile="$MasterPage$" %&gt;&#xD;
+&#xD;
+$CONTENT$</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B6ECE0162C674C48994C86D57E73E343/CustomProperties/=FileName/@EntryIndexedValue">WebPage</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B6ECE0162C674C48994C86D57E73E343/CustomProperties/=Extension/@EntryIndexedValue">aspx</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B6ECE0162C674C48994C86D57E73E343/CustomProperties/=ValidateFileName/@EntryIndexedValue">True</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B6ECE0162C674C48994C86D57E73E343/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B6ECE0162C674C48994C86D57E73E343/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B6ECE0162C674C48994C86D57E73E343/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/Type/@EntryValue">InAspVBProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B6ECE0162C674C48994C86D57E73E343/Field/=Title/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B6ECE0162C674C48994C86D57E73E343/Field/=Title/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B6ECE0162C674C48994C86D57E73E343/Field/=MasterPage/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B6ECE0162C674C48994C86D57E73E343/Field/=MasterPage/Expression/@EntryValue">completeSmart()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B6ECE0162C674C48994C86D57E73E343/Field/=MasterPage/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B6ECE0162C674C48994C86D57E73E343/Field/=CONTENT/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B6ECE0162C674C48994C86D57E73E343/Field/=CONTENT/Expression/@EntryValue">AspMasterpageContentGenerator()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B6ECE0162C674C48994C86D57E73E343/Field/=CONTENT/Order/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DE9CC1568D128D438C643B5380508D3D/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DE9CC1568D128D438C643B5380508D3D/Description/@EntryValue">Master page without base master page</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DE9CC1568D128D438C643B5380508D3D/Text/@EntryValue">&lt;%@ Master Language="VB" %&gt;&#xD;
+&#xD;
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;&#xD;
+&#xD;
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;&#xD;
+&lt;head runat="server"&gt;&#xD;
+    &lt;title&gt;&lt;/title&gt;&#xD;
+    &lt;asp:ContentPlaceHolder id="$head$" runat="server"&gt;&#xD;
+    $END$&lt;/asp:ContentPlaceHolder&gt;&#xD;
+&lt;/head&gt;&#xD;
+&lt;body&gt;&#xD;
+    &lt;form id="form1" runat="server"&gt;&#xD;
+    &lt;div&gt;&#xD;
+        &lt;asp:ContentPlaceHolder id="$ContentPlaceHolder1$" runat="server"&gt;&#xD;
+        &#xD;
+        &lt;/asp:ContentPlaceHolder&gt;&#xD;
+    &lt;/div&gt;&#xD;
+    &lt;/form&gt;&#xD;
+&lt;/body&gt;&#xD;
+&lt;/html&gt;&#xD;
+</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DE9CC1568D128D438C643B5380508D3D/CustomProperties/=FileName/@EntryIndexedValue">MasterPage</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DE9CC1568D128D438C643B5380508D3D/CustomProperties/=Extension/@EntryIndexedValue">master</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DE9CC1568D128D438C643B5380508D3D/CustomProperties/=ValidateFileName/@EntryIndexedValue">True</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DE9CC1568D128D438C643B5380508D3D/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DE9CC1568D128D438C643B5380508D3D/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DE9CC1568D128D438C643B5380508D3D/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/Type/@EntryValue">InAspVBProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DE9CC1568D128D438C643B5380508D3D/Field/=head/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DE9CC1568D128D438C643B5380508D3D/Field/=head/Expression/@EntryValue">suggestVariableName()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DE9CC1568D128D438C643B5380508D3D/Field/=head/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DE9CC1568D128D438C643B5380508D3D/Field/=ContentPlaceHolder1/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DE9CC1568D128D438C643B5380508D3D/Field/=ContentPlaceHolder1/Expression/@EntryValue">suggestVariableName()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DE9CC1568D128D438C643B5380508D3D/Field/=ContentPlaceHolder1/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B71123677E06574AB32F79C7A06FA74F/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B71123677E06574AB32F79C7A06FA74F/Description/@EntryValue">Master page with base master page</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B71123677E06574AB32F79C7A06FA74F/Text/@EntryValue">&lt;%@ Master Language="VB" MasterPageFile="$MasterPage$" %&gt;&#xD;
+&#xD;
+$CONTENT$</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B71123677E06574AB32F79C7A06FA74F/CustomProperties/=FileName/@EntryIndexedValue">MasterPage</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B71123677E06574AB32F79C7A06FA74F/CustomProperties/=Extension/@EntryIndexedValue">master</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B71123677E06574AB32F79C7A06FA74F/CustomProperties/=ValidateFileName/@EntryIndexedValue">True</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B71123677E06574AB32F79C7A06FA74F/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B71123677E06574AB32F79C7A06FA74F/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B71123677E06574AB32F79C7A06FA74F/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/Type/@EntryValue">InAspVBProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B71123677E06574AB32F79C7A06FA74F/Field/=MasterPage/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B71123677E06574AB32F79C7A06FA74F/Field/=MasterPage/Expression/@EntryValue">completeSmart()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B71123677E06574AB32F79C7A06FA74F/Field/=MasterPage/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B71123677E06574AB32F79C7A06FA74F/Field/=CONTENT/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B71123677E06574AB32F79C7A06FA74F/Field/=CONTENT/Expression/@EntryValue">AspMasterpageContentGenerator()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B71123677E06574AB32F79C7A06FA74F/Field/=CONTENT/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2B605365800FDA4A9B7695055C0A747F/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2B605365800FDA4A9B7695055C0A747F/Description/@EntryValue">Web control</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2B605365800FDA4A9B7695055C0A747F/Text/@EntryValue">&lt;%@ Control Language="VB" ClassName="$ClassName$" %&gt;&#xD;
+&#xD;
+$END$&#xD;
+</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2B605365800FDA4A9B7695055C0A747F/CustomProperties/=FileName/@EntryIndexedValue">WebControl</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2B605365800FDA4A9B7695055C0A747F/CustomProperties/=Extension/@EntryIndexedValue">ascx</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2B605365800FDA4A9B7695055C0A747F/CustomProperties/=ValidateFileName/@EntryIndexedValue">True</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2B605365800FDA4A9B7695055C0A747F/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2B605365800FDA4A9B7695055C0A747F/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2B605365800FDA4A9B7695055C0A747F/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/Type/@EntryValue">InAspVBProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2B605365800FDA4A9B7695055C0A747F/Field/=ClassName/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2B605365800FDA4A9B7695055C0A747F/Field/=ClassName/Expression/@EntryValue">getFileNameWithoutExtension()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2B605365800FDA4A9B7695055C0A747F/Field/=ClassName/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Description/@EntryValue">TypeScript NG Service</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Text/@EntryValue">/// &lt;reference path="../_all.ts" /&gt;&#xD;
+&#xD;
+module $ModuleName$ {&#xD;
+    'use strict';&#xD;
+&#xD;
+    export interface I$Name$ {&#xD;
+        //family&#xD;
+        get(code: string): ng.IHttpPromise&lt;any&gt;;&#xD;
+        delete(code: string): ng.IHttpPromise&lt;any&gt;;&#xD;
+    }&#xD;
+&#xD;
+    export class $Name$ implements I$Name$ {&#xD;
+        public injection(): any[] { &#xD;
+            return [&#xD;
+                '$http',&#xD;
+                'config',&#xD;
+                $Name$Storage&#xD;
+            ];&#xD;
+        }&#xD;
+&#xD;
+        constructor(private $http: ng.IHttpService, private config: any) {&#xD;
+        }&#xD;
+&#xD;
+        get(code: string): ng.IHttpPromise&lt;any&gt; {&#xD;
+            return this.$http.get(this.config.remoteServiceName + '/' + code);&#xD;
+        }&#xD;
+&#xD;
+        delete(code: string): ng.IHttpPromise&lt;any&gt; {&#xD;
+            return this.$http.delete(this.config.remoteServiceName + '/' + code);&#xD;
+        }        &#xD;
+    }&#xD;
+}&#xD;
+&#xD;
+module $ModuleName$ {&#xD;
+    'use strict';&#xD;
+    angular.module('$AppName$')&#xD;
+        .service('$CamelCaseName$', $Name$.prototype.injection());&#xD;
+} </s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/CustomProperties/=Extension/@EntryIndexedValue">ts</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/CustomProperties/=FileName/@EntryIndexedValue">TS NG Service</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/CustomProperties/=ValidateFileName/@EntryIndexedValue">False</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Scope/=0A12C11AC0ACCA4E921B6B2CEE180C57/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Scope/=0A12C11AC0ACCA4E921B6B2CEE180C57/Type/@EntryValue">InAnyWebProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Scope/=50AF970EC1279940A9104D92F89E47E1/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Scope/=50AF970EC1279940A9104D92F89E47E1/Type/@EntryValue">InAspCSharpProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/Type/@EntryValue">InAspVBProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=ModuleName/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=ModuleName/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=Name/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=Name/Expression/@EntryValue">getFileNameWithoutExtension()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=Name/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=CamelCaseName/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=CamelCaseName/Expression/@EntryValue">decapitalize(Name)</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=CamelCaseName/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=CamelCaseName/Order/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=AppName/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=AppName/Order/@EntryValue">3</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/Description/@EntryValue">MVC View Page with master page</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/Text/@EntryValue">&lt;%@ Page Title="$Title$" Language="VB" Inherits="System.Web.Mvc.ViewPage(Of $ModelType$)" MasterPageFile="$MasterPage$" %&gt;&#xD;
+&#xD;
+$CONTENT$&#xD;
+</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/IsInvisible/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/CustomProperties/=FileName/@EntryIndexedValue">System.Web.Mvc.ViewPage</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/CustomProperties/=Extension/@EntryIndexedValue">aspx</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/CustomProperties/=ValidateFileName/@EntryIndexedValue">True</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/Type/@EntryValue">InAspVBProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/Field/=Title/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/Field/=Title/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/Field/=ModelType/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/Field/=ModelType/Expression/@EntryValue">guessExpectedType()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/Field/=ModelType/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/Field/=MasterPage/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/Field/=MasterPage/Expression/@EntryValue">completeSmart()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/Field/=MasterPage/Order/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/Field/=CONTENT/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/Field/=CONTENT/Expression/@EntryValue">AspMasterpageContentGenerator()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5FEB5953C7145045BCD3BA6A72DDB3B5/Field/=CONTENT/Order/@EntryValue">3</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF36E40AF78D3C418A7EF77FE6EB97B6/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF36E40AF78D3C418A7EF77FE6EB97B6/Description/@EntryValue">MVC View Page without master page</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF36E40AF78D3C418A7EF77FE6EB97B6/Text/@EntryValue">&lt;%@ Page Language="VB" Inherits="System.Web.Mvc.ViewPage(Of $ModelType$)" %&gt;&#xD;
+&#xD;
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;&#xD;
+&#xD;
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;&#xD;
+&lt;head runat="server"&gt;&#xD;
+    &lt;title&gt;$Title$&lt;/title&gt;&#xD;
+&lt;/head&gt;&#xD;
+&lt;body&gt;&#xD;
+    $END$&#xD;
+&lt;/body&gt;&#xD;
+&lt;/html&gt;&#xD;
+</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF36E40AF78D3C418A7EF77FE6EB97B6/IsInvisible/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF36E40AF78D3C418A7EF77FE6EB97B6/CustomProperties/=Extension/@EntryIndexedValue">aspx</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF36E40AF78D3C418A7EF77FE6EB97B6/CustomProperties/=ValidateFileName/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF36E40AF78D3C418A7EF77FE6EB97B6/CustomProperties/=FileName/@EntryIndexedValue">System.Web.Mvc.ViewPage</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF36E40AF78D3C418A7EF77FE6EB97B6/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF36E40AF78D3C418A7EF77FE6EB97B6/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF36E40AF78D3C418A7EF77FE6EB97B6/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/Type/@EntryValue">InAspVBProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF36E40AF78D3C418A7EF77FE6EB97B6/Field/=ModelType/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF36E40AF78D3C418A7EF77FE6EB97B6/Field/=ModelType/Expression/@EntryValue">guessExpectedType()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF36E40AF78D3C418A7EF77FE6EB97B6/Field/=ModelType/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF36E40AF78D3C418A7EF77FE6EB97B6/Field/=Title/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF36E40AF78D3C418A7EF77FE6EB97B6/Field/=Title/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=28E1E2DC52D7D943839DA4FD508BD310/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=28E1E2DC52D7D943839DA4FD508BD310/Description/@EntryValue">MVC View UserControl</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=28E1E2DC52D7D943839DA4FD508BD310/Text/@EntryValue">&lt;%@ Control Language="VB" Inherits="System.Web.Mvc.ViewUserControl(Of $ModelType$)" %&gt;&#xD;
+&#xD;
+$END$</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=28E1E2DC52D7D943839DA4FD508BD310/IsInvisible/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=28E1E2DC52D7D943839DA4FD508BD310/CustomProperties/=Extension/@EntryIndexedValue">ascx</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=28E1E2DC52D7D943839DA4FD508BD310/CustomProperties/=ValidateFileName/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=28E1E2DC52D7D943839DA4FD508BD310/CustomProperties/=FileName/@EntryIndexedValue">System.Web.Mvc.ViewUserControl</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=28E1E2DC52D7D943839DA4FD508BD310/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=28E1E2DC52D7D943839DA4FD508BD310/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=28E1E2DC52D7D943839DA4FD508BD310/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/Type/@EntryValue">InAspVBProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=28E1E2DC52D7D943839DA4FD508BD310/Field/=ModelType/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=28E1E2DC52D7D943839DA4FD508BD310/Field/=ModelType/Expression/@EntryValue">guessExpectedType()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=28E1E2DC52D7D943839DA4FD508BD310/Field/=ModelType/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Description/@EntryValue">TypeScript Controller</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Text/@EntryValue">/// &lt;reference path="../_all.ts" /&gt;&#xD;
+&#xD;
+module $ModuleName$ {&#xD;
+    export interface I$Name$Scope extends ng.IScope {&#xD;
+        model: $Model$;&#xD;
+        init: () =&gt; void;&#xD;
+    }&#xD;
+&#xD;
+    export class $Name$Ctrl {&#xD;
+        private getLogFn: any; //common.logger.getLogFn;&#xD;
+        private log: any; //getLogFn(controllerId);&#xD;
+&#xD;
+        public injection(): any[] {&#xD;
+            return [&#xD;
+                '$scope',&#xD;
+                '$location',&#xD;
+                '$window',&#xD;
+                'common',&#xD;
+                'spinner',&#xD;
+                $Name$Ctrl];&#xD;
+        }&#xD;
+&#xD;
+        constructor(&#xD;
+            private $scope: I$Name$Scope,&#xD;
+            private $location: ng.ILocationService,&#xD;
+            private $window: ng.IWindowService,&#xD;
+            private common: any,&#xD;
+            private spinner: any) {&#xD;
+&#xD;
+                this.getLogFn = common.logger.getLogFn;&#xD;
+                this.log = this.getLogFn('$Name$Controller');&#xD;
+&#xD;
+                //this.init();&#xD;
+        }&#xD;
+    }&#xD;
+}&#xD;
+&#xD;
+&#xD;
+module $ModuleName$ {&#xD;
+    'use strict';&#xD;
+&#xD;
+    angular.module('$AppName$')&#xD;
+        .controller('$Name$Controller', $Name$Ctrl.prototype.injection());&#xD;
+} &#xD;
+</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/CustomProperties/=Extension/@EntryIndexedValue">ts</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/CustomProperties/=FileName/@EntryIndexedValue">controller</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/CustomProperties/=ValidateFileName/@EntryIndexedValue">False</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Scope/=0A12C11AC0ACCA4E921B6B2CEE180C57/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Scope/=0A12C11AC0ACCA4E921B6B2CEE180C57/Type/@EntryValue">InAnyWebProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Scope/=50AF970EC1279940A9104D92F89E47E1/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Scope/=50AF970EC1279940A9104D92F89E47E1/Type/@EntryValue">InAspCSharpProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/Type/@EntryValue">InAspVBProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Field/=ModuleName/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Field/=ModuleName/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Field/=Name/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Field/=Name/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Field/=Model/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Field/=Model/Order/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Field/=AppName/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Field/=AppName/Order/@EntryValue">3</s:Int64></wpf:ResourceDictionary>

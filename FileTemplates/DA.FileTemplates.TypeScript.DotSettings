@@ -1,0 +1,131 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Description/@EntryValue">TypeScript Controller</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Text/@EntryValue">/// &lt;reference path="../_all.ts" /&gt;&#xD;
+&#xD;
+module $ModuleName$ {&#xD;
+    export interface I$Name$Scope extends ng.IScope {&#xD;
+        model: $Model$;&#xD;
+        init: () =&gt; void;&#xD;
+    }&#xD;
+&#xD;
+    export class $Name$Ctrl {&#xD;
+        private getLogFn: any; //common.logger.getLogFn;&#xD;
+        private log: any; //getLogFn(controllerId);&#xD;
+&#xD;
+        public injection(): any[] {&#xD;
+            return [&#xD;
+                '$scope',&#xD;
+                '$location',&#xD;
+                '$window',&#xD;
+                'common',&#xD;
+                'spinner',&#xD;
+                $Name$Ctrl];&#xD;
+        }&#xD;
+&#xD;
+        constructor(&#xD;
+            private $scope: I$Name$Scope,&#xD;
+            private $location: ng.ILocationService,&#xD;
+            private $window: ng.IWindowService,&#xD;
+            private common: any,&#xD;
+            private spinner: any) {&#xD;
+&#xD;
+                this.getLogFn = common.logger.getLogFn;&#xD;
+                this.log = this.getLogFn('$Name$Controller');&#xD;
+&#xD;
+                //this.init();&#xD;
+        }&#xD;
+    }&#xD;
+}&#xD;
+&#xD;
+&#xD;
+module $ModuleName$ {&#xD;
+    'use strict';&#xD;
+&#xD;
+    angular.module('$AppName$')&#xD;
+        .controller('$Name$Controller', $Name$Ctrl.prototype.injection());&#xD;
+} &#xD;
+</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/CustomProperties/=Extension/@EntryIndexedValue">ts</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/CustomProperties/=FileName/@EntryIndexedValue">controller</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/CustomProperties/=ValidateFileName/@EntryIndexedValue">False</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Scope/=0A12C11AC0ACCA4E921B6B2CEE180C57/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Scope/=0A12C11AC0ACCA4E921B6B2CEE180C57/Type/@EntryValue">InAnyWebProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Scope/=50AF970EC1279940A9104D92F89E47E1/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Scope/=50AF970EC1279940A9104D92F89E47E1/Type/@EntryValue">InAspCSharpProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/Type/@EntryValue">InAspVBProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Field/=ModuleName/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Field/=ModuleName/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Field/=Name/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Field/=Name/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Field/=Model/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Field/=Model/Order/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Field/=AppName/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A6EC094641C140418EDB7F5C912FFF8F/Field/=AppName/Order/@EntryValue">3</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Description/@EntryValue">TypeScript NG Service</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Text/@EntryValue">/// &lt;reference path="../_all.ts" /&gt;&#xD;
+&#xD;
+module $ModuleName$ {&#xD;
+    'use strict';&#xD;
+&#xD;
+    export interface I$Name$ {&#xD;
+        //family&#xD;
+        get(code: string): ng.IHttpPromise&lt;any&gt;;&#xD;
+        delete(code: string): ng.IHttpPromise&lt;any&gt;;&#xD;
+    }&#xD;
+&#xD;
+    export class $Name$ implements I$Name$ {&#xD;
+        public injection(): any[] { &#xD;
+            return [&#xD;
+                '$http',&#xD;
+                'config',&#xD;
+                $Name$Storage&#xD;
+            ];&#xD;
+        }&#xD;
+&#xD;
+        constructor(private $http: ng.IHttpService, private config: any) {&#xD;
+        }&#xD;
+&#xD;
+        get(code: string): ng.IHttpPromise&lt;any&gt; {&#xD;
+            return this.$http.get(this.config.remoteServiceName + '/' + code);&#xD;
+        }&#xD;
+&#xD;
+        delete(code: string): ng.IHttpPromise&lt;any&gt; {&#xD;
+            return this.$http.delete(this.config.remoteServiceName + '/' + code);&#xD;
+        }        &#xD;
+    }&#xD;
+}&#xD;
+&#xD;
+module $ModuleName$ {&#xD;
+    'use strict';&#xD;
+    angular.module('$AppName$')&#xD;
+        .service('$CamelCaseName$', $Name$.prototype.injection());&#xD;
+} </s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/CustomProperties/=Extension/@EntryIndexedValue">ts</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/CustomProperties/=FileName/@EntryIndexedValue">TS NG Service</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/CustomProperties/=ValidateFileName/@EntryIndexedValue">False</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Scope/=0A12C11AC0ACCA4E921B6B2CEE180C57/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Scope/=0A12C11AC0ACCA4E921B6B2CEE180C57/Type/@EntryValue">InAnyWebProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Scope/=50AF970EC1279940A9104D92F89E47E1/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Scope/=50AF970EC1279940A9104D92F89E47E1/Type/@EntryValue">InAspCSharpProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Scope/=D9E8C84A52F4C44C9CD8CE7F3E5A57AA/Type/@EntryValue">InAspVBProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=ModuleName/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=ModuleName/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=Name/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=Name/Expression/@EntryValue">getFileNameWithoutExtension()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=Name/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=CamelCaseName/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=CamelCaseName/Expression/@EntryValue">decapitalize(Name)</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=CamelCaseName/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=CamelCaseName/Order/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=AppName/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7914AE9A1FCEBD44A0A0A38D70412B91/Field/=AppName/Order/@EntryValue">3</s:Int64></wpf:ResourceDictionary>

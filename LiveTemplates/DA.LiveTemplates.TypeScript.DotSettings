@@ -1,0 +1,104 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=82B5D154A3266E409969854263D9EC4D/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=82B5D154A3266E409969854263D9EC4D/Shortcut/@EntryValue">class</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=82B5D154A3266E409969854263D9EC4D/Text/@EntryValue">class $Name$ {&#xD;
+    $END$&#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=82B5D154A3266E409969854263D9EC4D/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=82B5D154A3266E409969854263D9EC4D/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=82B5D154A3266E409969854263D9EC4D/Categories/=Imported_0020TypeScript_0020Snippets/@EntryIndexedValue">Imported TypeScript Snippets</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=82B5D154A3266E409969854263D9EC4D/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=82B5D154A3266E409969854263D9EC4D/Scope/=F4263AAF0A9311428B4CEB8647A59CA6/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=82B5D154A3266E409969854263D9EC4D/Scope/=F4263AAF0A9311428B4CEB8647A59CA6/Type/@EntryValue">InTypeScriptModuleMember</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=82B5D154A3266E409969854263D9EC4D/Field/=Name/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=82B5D154A3266E409969854263D9EC4D/Field/=Name/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=79617220FE71EE45AFEDBED3E9129901/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=79617220FE71EE45AFEDBED3E9129901/Shortcut/@EntryValue">ctor</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=79617220FE71EE45AFEDBED3E9129901/Text/@EntryValue">constructor() { $END$ }</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=79617220FE71EE45AFEDBED3E9129901/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=79617220FE71EE45AFEDBED3E9129901/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=79617220FE71EE45AFEDBED3E9129901/Categories/=Imported_0020TypeScript_0020Snippets/@EntryIndexedValue">Imported TypeScript Snippets</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=79617220FE71EE45AFEDBED3E9129901/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=79617220FE71EE45AFEDBED3E9129901/Scope/=4363E7B4851DF74D926CF54E8BC87085/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=79617220FE71EE45AFEDBED3E9129901/Scope/=4363E7B4851DF74D926CF54E8BC87085/Type/@EntryValue">InTypeScriptTypeMember</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D7837936306DB04B9B0ECAF63247362E/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D7837936306DB04B9B0ECAF63247362E/Shortcut/@EntryValue">enum</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D7837936306DB04B9B0ECAF63247362E/Text/@EntryValue">enum $Name$ {&#xD;
+    $END$&#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D7837936306DB04B9B0ECAF63247362E/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D7837936306DB04B9B0ECAF63247362E/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D7837936306DB04B9B0ECAF63247362E/Categories/=Imported_0020TypeScript_0020Snippets/@EntryIndexedValue">Imported TypeScript Snippets</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D7837936306DB04B9B0ECAF63247362E/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D7837936306DB04B9B0ECAF63247362E/Scope/=F4263AAF0A9311428B4CEB8647A59CA6/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D7837936306DB04B9B0ECAF63247362E/Scope/=F4263AAF0A9311428B4CEB8647A59CA6/Type/@EntryValue">InTypeScriptModuleMember</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D7837936306DB04B9B0ECAF63247362E/Field/=Name/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D7837936306DB04B9B0ECAF63247362E/Field/=Name/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AC38B08C09E80A448DAD7BC1227184D8/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AC38B08C09E80A448DAD7BC1227184D8/Shortcut/@EntryValue">interface</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AC38B08C09E80A448DAD7BC1227184D8/Text/@EntryValue">interface I$Name$ {&#xD;
+    $END$&#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AC38B08C09E80A448DAD7BC1227184D8/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AC38B08C09E80A448DAD7BC1227184D8/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AC38B08C09E80A448DAD7BC1227184D8/Categories/=Imported_0020TypeScript_0020Snippets/@EntryIndexedValue">Imported TypeScript Snippets</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AC38B08C09E80A448DAD7BC1227184D8/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AC38B08C09E80A448DAD7BC1227184D8/Scope/=F4263AAF0A9311428B4CEB8647A59CA6/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AC38B08C09E80A448DAD7BC1227184D8/Scope/=F4263AAF0A9311428B4CEB8647A59CA6/Type/@EntryValue">InTypeScriptModuleMember</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AC38B08C09E80A448DAD7BC1227184D8/Field/=Name/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AC38B08C09E80A448DAD7BC1227184D8/Field/=Name/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A3C72F1F2959AF428D590C9A1F8D3060/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A3C72F1F2959AF428D590C9A1F8D3060/Shortcut/@EntryValue">module</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A3C72F1F2959AF428D590C9A1F8D3060/Text/@EntryValue">module $Name$ {&#xD;
+    $END$&#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A3C72F1F2959AF428D590C9A1F8D3060/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A3C72F1F2959AF428D590C9A1F8D3060/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A3C72F1F2959AF428D590C9A1F8D3060/Categories/=Imported_0020TypeScript_0020Snippets/@EntryIndexedValue">Imported TypeScript Snippets</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A3C72F1F2959AF428D590C9A1F8D3060/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A3C72F1F2959AF428D590C9A1F8D3060/Scope/=F4263AAF0A9311428B4CEB8647A59CA6/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A3C72F1F2959AF428D590C9A1F8D3060/Scope/=F4263AAF0A9311428B4CEB8647A59CA6/Type/@EntryValue">InTypeScriptModuleMember</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A3C72F1F2959AF428D590C9A1F8D3060/Field/=Name/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A3C72F1F2959AF428D590C9A1F8D3060/Field/=Name/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5499FDF0AF476A4FB8CB350F172901B3/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5499FDF0AF476A4FB8CB350F172901B3/Shortcut/@EntryValue">nidx</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5499FDF0AF476A4FB8CB350F172901B3/Text/@EntryValue">[index: number]: $Type$;</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5499FDF0AF476A4FB8CB350F172901B3/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5499FDF0AF476A4FB8CB350F172901B3/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5499FDF0AF476A4FB8CB350F172901B3/Categories/=Imported_0020TypeScript_0020Snippets/@EntryIndexedValue">Imported TypeScript Snippets</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5499FDF0AF476A4FB8CB350F172901B3/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5499FDF0AF476A4FB8CB350F172901B3/Scope/=4363E7B4851DF74D926CF54E8BC87085/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5499FDF0AF476A4FB8CB350F172901B3/Scope/=4363E7B4851DF74D926CF54E8BC87085/Type/@EntryValue">InTypeScriptTypeMember</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5499FDF0AF476A4FB8CB350F172901B3/Field/=Type/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5499FDF0AF476A4FB8CB350F172901B3/Field/=Type/Expression/@EntryValue">complete()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5499FDF0AF476A4FB8CB350F172901B3/Field/=Type/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8D080CC18DE15A46A33D1A36A5865FDC/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8D080CC18DE15A46A33D1A36A5865FDC/Shortcut/@EntryValue">prop</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8D080CC18DE15A46A33D1A36A5865FDC/Text/@EntryValue">get $Name$():$Type$ {$BODY1$}&#xD;
+set $Name$(value:$Type$) {$END$}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8D080CC18DE15A46A33D1A36A5865FDC/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8D080CC18DE15A46A33D1A36A5865FDC/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8D080CC18DE15A46A33D1A36A5865FDC/Categories/=Imported_0020TypeScript_0020Snippets/@EntryIndexedValue">Imported TypeScript Snippets</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8D080CC18DE15A46A33D1A36A5865FDC/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8D080CC18DE15A46A33D1A36A5865FDC/Scope/=4363E7B4851DF74D926CF54E8BC87085/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8D080CC18DE15A46A33D1A36A5865FDC/Scope/=4363E7B4851DF74D926CF54E8BC87085/Type/@EntryValue">InTypeScriptTypeMember</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8D080CC18DE15A46A33D1A36A5865FDC/Field/=Name/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8D080CC18DE15A46A33D1A36A5865FDC/Field/=Name/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8D080CC18DE15A46A33D1A36A5865FDC/Field/=Type/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8D080CC18DE15A46A33D1A36A5865FDC/Field/=Type/Expression/@EntryValue">complete()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8D080CC18DE15A46A33D1A36A5865FDC/Field/=Type/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8D080CC18DE15A46A33D1A36A5865FDC/Field/=BODY1/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8D080CC18DE15A46A33D1A36A5865FDC/Field/=BODY1/Expression/@EntryValue">constant("return null;")</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8D080CC18DE15A46A33D1A36A5865FDC/Field/=BODY1/Order/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=99161369E3CA8441AE197E06A07F887F/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=99161369E3CA8441AE197E06A07F887F/Shortcut/@EntryValue">sidx</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=99161369E3CA8441AE197E06A07F887F/Text/@EntryValue">[index: string]: $Type$;</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=99161369E3CA8441AE197E06A07F887F/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=99161369E3CA8441AE197E06A07F887F/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=99161369E3CA8441AE197E06A07F887F/Categories/=Imported_0020TypeScript_0020Snippets/@EntryIndexedValue">Imported TypeScript Snippets</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=99161369E3CA8441AE197E06A07F887F/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=99161369E3CA8441AE197E06A07F887F/Scope/=4363E7B4851DF74D926CF54E8BC87085/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=99161369E3CA8441AE197E06A07F887F/Scope/=4363E7B4851DF74D926CF54E8BC87085/Type/@EntryValue">InTypeScriptTypeMember</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=99161369E3CA8441AE197E06A07F887F/Field/=Type/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=99161369E3CA8441AE197E06A07F887F/Field/=Type/Expression/@EntryValue">complete()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=99161369E3CA8441AE197E06A07F887F/Field/=Type/Order/@EntryValue">0</s:Int64></wpf:ResourceDictionary>

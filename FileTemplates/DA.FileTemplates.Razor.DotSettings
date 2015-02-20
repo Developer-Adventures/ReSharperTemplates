@@ -1,0 +1,77 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=000F9328D163EF499108D49218DF0568/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=000F9328D163EF499108D49218DF0568/Description/@EntryValue">Razor MVC View</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=000F9328D163EF499108D49218DF0568/Text/@EntryValue">@model $model$&#xD;
+&#xD;
+@{&#xD;
+  Layout = null;&#xD;
+}&#xD;
+&#xD;
+&lt;!DOCTYPE html&gt;&#xD;
+&#xD;
+&lt;html&gt;&#xD;
+&lt;head&gt;&#xD;
+  &lt;title&gt;$title$&lt;/title&gt;&#xD;
+&lt;/head&gt;&#xD;
+&lt;body&gt;&#xD;
+  &lt;div&gt;&#xD;
+    $END$  &#xD;
+  &lt;/div&gt;&#xD;
+&lt;/body&gt;&#xD;
+&lt;/html&gt;</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=000F9328D163EF499108D49218DF0568/CustomProperties/=FileName/@EntryIndexedValue">Page</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=000F9328D163EF499108D49218DF0568/CustomProperties/=Extension/@EntryIndexedValue">cshtml</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=000F9328D163EF499108D49218DF0568/CustomProperties/=ValidateFileName/@EntryIndexedValue">True</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=000F9328D163EF499108D49218DF0568/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=000F9328D163EF499108D49218DF0568/Scope/=50AF970EC1279940A9104D92F89E47E1/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=000F9328D163EF499108D49218DF0568/Scope/=50AF970EC1279940A9104D92F89E47E1/Type/@EntryValue">InAspCSharpProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=000F9328D163EF499108D49218DF0568/Scope/=C049D1F3598F294DAC47F8162209A25A/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=000F9328D163EF499108D49218DF0568/Scope/=C049D1F3598F294DAC47F8162209A25A/Type/@EntryValue">InRazorCSharpProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=000F9328D163EF499108D49218DF0568/Field/=model/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=000F9328D163EF499108D49218DF0568/Field/=model/Expression/@EntryValue">guessExpectedType("")</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=000F9328D163EF499108D49218DF0568/Field/=model/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=000F9328D163EF499108D49218DF0568/Field/=title/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=000F9328D163EF499108D49218DF0568/Field/=title/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C34999250E53FF41B0A86BA5C123B7B6/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C34999250E53FF41B0A86BA5C123B7B6/Description/@EntryValue">Razor MVC View with Layout</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C34999250E53FF41B0A86BA5C123B7B6/Text/@EntryValue">@model $model$&#xD;
+&#xD;
+@{&#xD;
+  ViewBag.Title = "$title$";&#xD;
+  Layout = "$_Layout$";&#xD;
+}&#xD;
+&#xD;
+&lt;h2&gt;$title$&lt;/h2&gt;&#xD;
+$END$</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C34999250E53FF41B0A86BA5C123B7B6/CustomProperties/=FileName/@EntryIndexedValue">Page</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C34999250E53FF41B0A86BA5C123B7B6/CustomProperties/=Extension/@EntryIndexedValue">cshtml</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C34999250E53FF41B0A86BA5C123B7B6/CustomProperties/=ValidateFileName/@EntryIndexedValue">True</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C34999250E53FF41B0A86BA5C123B7B6/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C34999250E53FF41B0A86BA5C123B7B6/Scope/=50AF970EC1279940A9104D92F89E47E1/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C34999250E53FF41B0A86BA5C123B7B6/Scope/=50AF970EC1279940A9104D92F89E47E1/Type/@EntryValue">InAspCSharpProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C34999250E53FF41B0A86BA5C123B7B6/Scope/=C049D1F3598F294DAC47F8162209A25A/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C34999250E53FF41B0A86BA5C123B7B6/Scope/=C049D1F3598F294DAC47F8162209A25A/Type/@EntryValue">InRazorCSharpProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C34999250E53FF41B0A86BA5C123B7B6/Field/=model/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C34999250E53FF41B0A86BA5C123B7B6/Field/=model/Expression/@EntryValue">guessExpectedType("")</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C34999250E53FF41B0A86BA5C123B7B6/Field/=model/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C34999250E53FF41B0A86BA5C123B7B6/Field/=title/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C34999250E53FF41B0A86BA5C123B7B6/Field/=title/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C34999250E53FF41B0A86BA5C123B7B6/Field/=_005FLayout/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C34999250E53FF41B0A86BA5C123B7B6/Field/=_005FLayout/Expression/@EntryValue">completeSmart()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C34999250E53FF41B0A86BA5C123B7B6/Field/=_005FLayout/Order/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF39AD2BF37BD5448D981614A5FFEF92/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF39AD2BF37BD5448D981614A5FFEF92/Description/@EntryValue">Razor MVC Partial View</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF39AD2BF37BD5448D981614A5FFEF92/Text/@EntryValue">@model $model$&#xD;
+&#xD;
+$END$</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF39AD2BF37BD5448D981614A5FFEF92/CustomProperties/=FileName/@EntryIndexedValue">Page</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF39AD2BF37BD5448D981614A5FFEF92/CustomProperties/=Extension/@EntryIndexedValue">cshtml</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF39AD2BF37BD5448D981614A5FFEF92/CustomProperties/=ValidateFileName/@EntryIndexedValue">True</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF39AD2BF37BD5448D981614A5FFEF92/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF39AD2BF37BD5448D981614A5FFEF92/Scope/=50AF970EC1279940A9104D92F89E47E1/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF39AD2BF37BD5448D981614A5FFEF92/Scope/=50AF970EC1279940A9104D92F89E47E1/Type/@EntryValue">InAspCSharpProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF39AD2BF37BD5448D981614A5FFEF92/Scope/=C049D1F3598F294DAC47F8162209A25A/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF39AD2BF37BD5448D981614A5FFEF92/Scope/=C049D1F3598F294DAC47F8162209A25A/Type/@EntryValue">InRazorCSharpProject</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF39AD2BF37BD5448D981614A5FFEF92/Field/=model/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF39AD2BF37BD5448D981614A5FFEF92/Field/=model/Expression/@EntryValue">guessExpectedType("")</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF39AD2BF37BD5448D981614A5FFEF92/Field/=model/Order/@EntryValue">0</s:Int64></wpf:ResourceDictionary>

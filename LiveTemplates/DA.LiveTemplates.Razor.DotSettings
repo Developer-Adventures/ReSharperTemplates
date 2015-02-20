@@ -1,0 +1,113 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=46FC55236A04834488C8EA412D1C2806/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=46FC55236A04834488C8EA412D1C2806/Shortcut/@EntryValue">@inherits</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=46FC55236A04834488C8EA412D1C2806/Description/@EntryValue">Razor inherits directive</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=46FC55236A04834488C8EA412D1C2806/Text/@EntryValue">@inherits $TYPENAME$&#xD;
+$END$</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=46FC55236A04834488C8EA412D1C2806/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=46FC55236A04834488C8EA412D1C2806/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=46FC55236A04834488C8EA412D1C2806/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=46FC55236A04834488C8EA412D1C2806/Scope/=2DD0981E9795BF468F5E05C3949B8ACE/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=46FC55236A04834488C8EA412D1C2806/Scope/=2DD0981E9795BF468F5E05C3949B8ACE/Type/@EntryValue">InRazorTag</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=46FC55236A04834488C8EA412D1C2806/Scope/=2DD0981E9795BF468F5E05C3949B8ACE/CustomProperties/=language/@EntryIndexedValue">Razor CSharp Mvc</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=46FC55236A04834488C8EA412D1C2806/Field/=TYPENAME/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=46FC55236A04834488C8EA412D1C2806/Field/=TYPENAME/Expression/@EntryValue">guessExpectedType()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=46FC55236A04834488C8EA412D1C2806/Field/=TYPENAME/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D02E93A50D06D94C8DC04CC4FC6625DB/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D02E93A50D06D94C8DC04CC4FC6625DB/Shortcut/@EntryValue">@model</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D02E93A50D06D94C8DC04CC4FC6625DB/Description/@EntryValue">Razor model directive</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D02E93A50D06D94C8DC04CC4FC6625DB/Text/@EntryValue">@model $TYPENAME$&#xD;
+$END$</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D02E93A50D06D94C8DC04CC4FC6625DB/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D02E93A50D06D94C8DC04CC4FC6625DB/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D02E93A50D06D94C8DC04CC4FC6625DB/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D02E93A50D06D94C8DC04CC4FC6625DB/Scope/=2DD0981E9795BF468F5E05C3949B8ACE/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D02E93A50D06D94C8DC04CC4FC6625DB/Scope/=2DD0981E9795BF468F5E05C3949B8ACE/Type/@EntryValue">InRazorTag</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D02E93A50D06D94C8DC04CC4FC6625DB/Scope/=2DD0981E9795BF468F5E05C3949B8ACE/CustomProperties/=language/@EntryIndexedValue">Razor CSharp Mvc</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D02E93A50D06D94C8DC04CC4FC6625DB/Field/=TYPENAME/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D02E93A50D06D94C8DC04CC4FC6625DB/Field/=TYPENAME/Expression/@EntryValue">completeType()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D02E93A50D06D94C8DC04CC4FC6625DB/Field/=TYPENAME/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=88AA38ECB3D1FB4F94CC71251100A08F/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=88AA38ECB3D1FB4F94CC71251100A08F/Shortcut/@EntryValue">@section</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=88AA38ECB3D1FB4F94CC71251100A08F/Description/@EntryValue">Razor section</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=88AA38ECB3D1FB4F94CC71251100A08F/Text/@EntryValue">@section $section$&#xD;
+{&#xD;
+$END$&#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=88AA38ECB3D1FB4F94CC71251100A08F/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=88AA38ECB3D1FB4F94CC71251100A08F/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=88AA38ECB3D1FB4F94CC71251100A08F/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=88AA38ECB3D1FB4F94CC71251100A08F/Scope/=2DD0981E9795BF468F5E05C3949B8ACE/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=88AA38ECB3D1FB4F94CC71251100A08F/Scope/=2DD0981E9795BF468F5E05C3949B8ACE/Type/@EntryValue">InRazorTag</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=88AA38ECB3D1FB4F94CC71251100A08F/Scope/=2DD0981E9795BF468F5E05C3949B8ACE/CustomProperties/=language/@EntryIndexedValue">Razor CSharp Mvc</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=88AA38ECB3D1FB4F94CC71251100A08F/Field/=section/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=88AA38ECB3D1FB4F94CC71251100A08F/Field/=section/Expression/@EntryValue">complete()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=88AA38ECB3D1FB4F94CC71251100A08F/Field/=section/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=77EFEAA375D05C438E4FAA109D414F0A/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=77EFEAA375D05C438E4FAA109D414F0A/Shortcut/@EntryValue">hal</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=77EFEAA375D05C438E4FAA109D414F0A/Description/@EntryValue">ASP.NET MVC Html.ActionLink</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=77EFEAA375D05C438E4FAA109D414F0A/Text/@EntryValue">Html.ActionLink("$TEXT$", "$ACTION$", "$CONTROLLER$")</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=77EFEAA375D05C438E4FAA109D414F0A/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=77EFEAA375D05C438E4FAA109D414F0A/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=77EFEAA375D05C438E4FAA109D414F0A/Categories/=Imported_00202_002F19_002F2015/@EntryIndexedValue">Imported 2/19/2015</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=77EFEAA375D05C438E4FAA109D414F0A/Categories/=Imported_00203_002F25_002F2013/@EntryIndexedValue">Imported 3/25/2013</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=77EFEAA375D05C438E4FAA109D414F0A/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=77EFEAA375D05C438E4FAA109D414F0A/Scope/=3CDDF046BEA72B499BFB0E0D6A845C94/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=77EFEAA375D05C438E4FAA109D414F0A/Scope/=3CDDF046BEA72B499BFB0E0D6A845C94/Type/@EntryValue">InRazorFile</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=77EFEAA375D05C438E4FAA109D414F0A/Field/=CONTROLLER/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=77EFEAA375D05C438E4FAA109D414F0A/Field/=CONTROLLER/Expression/@EntryValue">AspMvcController()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=77EFEAA375D05C438E4FAA109D414F0A/Field/=CONTROLLER/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=77EFEAA375D05C438E4FAA109D414F0A/Field/=ACTION/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=77EFEAA375D05C438E4FAA109D414F0A/Field/=ACTION/Expression/@EntryValue">AspMvcAction()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=77EFEAA375D05C438E4FAA109D414F0A/Field/=ACTION/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=77EFEAA375D05C438E4FAA109D414F0A/Field/=TEXT/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=77EFEAA375D05C438E4FAA109D414F0A/Field/=TEXT/Order/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=691A49A64E22094A9DB7DCCC6DCCD46E/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=691A49A64E22094A9DB7DCCC6DCCD46E/Shortcut/@EntryValue">mvcal</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=691A49A64E22094A9DB7DCCC6DCCD46E/Description/@EntryValue">ActionLink</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=691A49A64E22094A9DB7DCCC6DCCD46E/Text/@EntryValue">Html.ActionLink("$ACTIONTEXT$", new { Action="$CONTROLLERACTION$"$END$})</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=691A49A64E22094A9DB7DCCC6DCCD46E/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=691A49A64E22094A9DB7DCCC6DCCD46E/Categories/=Imported_00202_002F19_002F2015/@EntryIndexedValue">Imported 2/19/2015</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=691A49A64E22094A9DB7DCCC6DCCD46E/Categories/=Imported_00203_002F25_002F2013/@EntryIndexedValue">Imported 3/25/2013</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=691A49A64E22094A9DB7DCCC6DCCD46E/Categories/=MicrosoftMVC/@EntryIndexedValue">MicrosoftMVC</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=691A49A64E22094A9DB7DCCC6DCCD46E/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=691A49A64E22094A9DB7DCCC6DCCD46E/Scope/=3CDDF046BEA72B499BFB0E0D6A845C94/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=691A49A64E22094A9DB7DCCC6DCCD46E/Scope/=3CDDF046BEA72B499BFB0E0D6A845C94/Type/@EntryValue">InRazorFile</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=691A49A64E22094A9DB7DCCC6DCCD46E/Field/=ACTIONTEXT/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=691A49A64E22094A9DB7DCCC6DCCD46E/Field/=ACTIONTEXT/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=691A49A64E22094A9DB7DCCC6DCCD46E/Field/=CONTROLLERACTION/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=691A49A64E22094A9DB7DCCC6DCCD46E/Field/=CONTROLLERACTION/Expression/@EntryValue">capitalize(ACTIONTEXT)</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=691A49A64E22094A9DB7DCCC6DCCD46E/Field/=CONTROLLERACTION/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=85D55C9A82125B459A5F32FACED4F5E7/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=85D55C9A82125B459A5F32FACED4F5E7/Shortcut/@EntryValue">mvcua</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=85D55C9A82125B459A5F32FACED4F5E7/Description/@EntryValue">MVC Url.Action</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=85D55C9A82125B459A5F32FACED4F5E7/Text/@EntryValue">Url.Action(new {Controller = "$CONTROLLERNAME$",Action = "$ACTIONNAME$"$END$ })</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=85D55C9A82125B459A5F32FACED4F5E7/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=85D55C9A82125B459A5F32FACED4F5E7/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=85D55C9A82125B459A5F32FACED4F5E7/Categories/=Imported_00202_002F19_002F2015/@EntryIndexedValue">Imported 2/19/2015</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=85D55C9A82125B459A5F32FACED4F5E7/Categories/=Imported_00203_002F25_002F2013/@EntryIndexedValue">Imported 3/25/2013</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=85D55C9A82125B459A5F32FACED4F5E7/Categories/=MicrosoftMVC/@EntryIndexedValue">MicrosoftMVC</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=85D55C9A82125B459A5F32FACED4F5E7/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=85D55C9A82125B459A5F32FACED4F5E7/Scope/=3CDDF046BEA72B499BFB0E0D6A845C94/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=85D55C9A82125B459A5F32FACED4F5E7/Scope/=3CDDF046BEA72B499BFB0E0D6A845C94/Type/@EntryValue">InRazorFile</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=85D55C9A82125B459A5F32FACED4F5E7/Field/=CONTROLLERNAME/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=85D55C9A82125B459A5F32FACED4F5E7/Field/=CONTROLLERNAME/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=85D55C9A82125B459A5F32FACED4F5E7/Field/=ACTIONNAME/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=85D55C9A82125B459A5F32FACED4F5E7/Field/=ACTIONNAME/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DCDFBDFC419CEB4099216C8D52DF43D9/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DCDFBDFC419CEB4099216C8D52DF43D9/Shortcut/@EntryValue">ua</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DCDFBDFC419CEB4099216C8D52DF43D9/Description/@EntryValue">ASP.NET MVC Url.Action</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DCDFBDFC419CEB4099216C8D52DF43D9/Text/@EntryValue">Url.Action("$ACTION$", "$CONTROLLER$")</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DCDFBDFC419CEB4099216C8D52DF43D9/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DCDFBDFC419CEB4099216C8D52DF43D9/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DCDFBDFC419CEB4099216C8D52DF43D9/Categories/=Imported_00202_002F19_002F2015/@EntryIndexedValue">Imported 2/19/2015</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DCDFBDFC419CEB4099216C8D52DF43D9/Categories/=Imported_00203_002F25_002F2013/@EntryIndexedValue">Imported 3/25/2013</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DCDFBDFC419CEB4099216C8D52DF43D9/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DCDFBDFC419CEB4099216C8D52DF43D9/Scope/=3CDDF046BEA72B499BFB0E0D6A845C94/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DCDFBDFC419CEB4099216C8D52DF43D9/Scope/=3CDDF046BEA72B499BFB0E0D6A845C94/Type/@EntryValue">InRazorFile</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DCDFBDFC419CEB4099216C8D52DF43D9/Field/=CONTROLLER/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DCDFBDFC419CEB4099216C8D52DF43D9/Field/=CONTROLLER/Expression/@EntryValue">AspMvcController()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DCDFBDFC419CEB4099216C8D52DF43D9/Field/=CONTROLLER/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DCDFBDFC419CEB4099216C8D52DF43D9/Field/=ACTION/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DCDFBDFC419CEB4099216C8D52DF43D9/Field/=ACTION/Expression/@EntryValue">AspMvcAction()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DCDFBDFC419CEB4099216C8D52DF43D9/Field/=ACTION/Order/@EntryValue">1</s:Int64></wpf:ResourceDictionary>

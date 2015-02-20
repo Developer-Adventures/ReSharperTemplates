@@ -1,0 +1,208 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D09BA408E73AAB4895704749F653C32F/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D09BA408E73AAB4895704749F653C32F/Shortcut/@EntryValue">do</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D09BA408E73AAB4895704749F653C32F/Description/@EntryValue">Code snippet for do...while loop</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D09BA408E73AAB4895704749F653C32F/Text/@EntryValue">do {
+  $END$
+} while($COND$)</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D09BA408E73AAB4895704749F653C32F/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D09BA408E73AAB4895704749F653C32F/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D09BA408E73AAB4895704749F653C32F/Categories/=Imported_0020JScript_0020Snippets/@EntryIndexedValue">Imported JScript Snippets</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D09BA408E73AAB4895704749F653C32F/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D09BA408E73AAB4895704749F653C32F/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D09BA408E73AAB4895704749F653C32F/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/Type/@EntryValue">InJavaScriptStatement</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D09BA408E73AAB4895704749F653C32F/Field/=COND/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D09BA408E73AAB4895704749F653C32F/Field/=COND/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=96A1C6AD536AAF46A545515D1FDA19BD/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=96A1C6AD536AAF46A545515D1FDA19BD/Shortcut/@EntryValue">dw</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=96A1C6AD536AAF46A545515D1FDA19BD/Description/@EntryValue">Code snippet for a writeln function call</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=96A1C6AD536AAF46A545515D1FDA19BD/Text/@EntryValue">document.writeln($END$);</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=96A1C6AD536AAF46A545515D1FDA19BD/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=96A1C6AD536AAF46A545515D1FDA19BD/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=96A1C6AD536AAF46A545515D1FDA19BD/Categories/=Imported_0020JScript_0020Snippets/@EntryIndexedValue">Imported JScript Snippets</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=96A1C6AD536AAF46A545515D1FDA19BD/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=96A1C6AD536AAF46A545515D1FDA19BD/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=96A1C6AD536AAF46A545515D1FDA19BD/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/Type/@EntryValue">InJavaScriptStatement</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=34EEC0FDD4B7F047966DA46DC03A0938/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=34EEC0FDD4B7F047966DA46DC03A0938/Shortcut/@EntryValue">else</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=34EEC0FDD4B7F047966DA46DC03A0938/Description/@EntryValue">Code snippet for an else statement</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=34EEC0FDD4B7F047966DA46DC03A0938/Text/@EntryValue">else {
+  $END$
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=34EEC0FDD4B7F047966DA46DC03A0938/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=34EEC0FDD4B7F047966DA46DC03A0938/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=34EEC0FDD4B7F047966DA46DC03A0938/Categories/=Imported_0020JScript_0020Snippets/@EntryIndexedValue">Imported JScript Snippets</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=34EEC0FDD4B7F047966DA46DC03A0938/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=34EEC0FDD4B7F047966DA46DC03A0938/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=34EEC0FDD4B7F047966DA46DC03A0938/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/Type/@EntryValue">InJavaScriptStatement</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C6BC3DF6B0189441A32DE0ADBCE49462/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C6BC3DF6B0189441A32DE0ADBCE49462/Shortcut/@EntryValue">for</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C6BC3DF6B0189441A32DE0ADBCE49462/Description/@EntryValue">Code snippet for a for loop</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C6BC3DF6B0189441A32DE0ADBCE49462/Text/@EntryValue">for (var $VAR$ = 0; $VAR$ &lt; $LENGTH$; $VAR$++){
+  $END$
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C6BC3DF6B0189441A32DE0ADBCE49462/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C6BC3DF6B0189441A32DE0ADBCE49462/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C6BC3DF6B0189441A32DE0ADBCE49462/Categories/=Imported_0020JScript_0020Snippets/@EntryIndexedValue">Imported JScript Snippets</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C6BC3DF6B0189441A32DE0ADBCE49462/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C6BC3DF6B0189441A32DE0ADBCE49462/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C6BC3DF6B0189441A32DE0ADBCE49462/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/Type/@EntryValue">InJavaScriptStatement</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C6BC3DF6B0189441A32DE0ADBCE49462/Field/=VAR/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C6BC3DF6B0189441A32DE0ADBCE49462/Field/=VAR/Expression/@EntryValue">suggestIndexVariable()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C6BC3DF6B0189441A32DE0ADBCE49462/Field/=VAR/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C6BC3DF6B0189441A32DE0ADBCE49462/Field/=LENGTH/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C6BC3DF6B0189441A32DE0ADBCE49462/Field/=LENGTH/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AE5FAC5778FFC242973523F4D28BA216/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AE5FAC5778FFC242973523F4D28BA216/Shortcut/@EntryValue">forin</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AE5FAC5778FFC242973523F4D28BA216/Description/@EntryValue">Code snippet for a for...in loop</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AE5FAC5778FFC242973523F4D28BA216/Text/@EntryValue">for (var $VAR$ in $ARRAY$){
+  $END$
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AE5FAC5778FFC242973523F4D28BA216/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AE5FAC5778FFC242973523F4D28BA216/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AE5FAC5778FFC242973523F4D28BA216/Categories/=Imported_0020JScript_0020Snippets/@EntryIndexedValue">Imported JScript Snippets</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AE5FAC5778FFC242973523F4D28BA216/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AE5FAC5778FFC242973523F4D28BA216/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AE5FAC5778FFC242973523F4D28BA216/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/Type/@EntryValue">InJavaScriptStatement</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AE5FAC5778FFC242973523F4D28BA216/Field/=ARRAY/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AE5FAC5778FFC242973523F4D28BA216/Field/=ARRAY/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AE5FAC5778FFC242973523F4D28BA216/Field/=VAR/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AE5FAC5778FFC242973523F4D28BA216/Field/=VAR/Expression/@EntryValue">suggestVariableName()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=AE5FAC5778FFC242973523F4D28BA216/Field/=VAR/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8C136181D9D094AB708D644C83182FC/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8C136181D9D094AB708D644C83182FC/Shortcut/@EntryValue">forr</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8C136181D9D094AB708D644C83182FC/Description/@EntryValue">Code snippet for a reverse for loop</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8C136181D9D094AB708D644C83182FC/Text/@EntryValue">for (var $VAR$=$LENGTH$-1;$VAR$ &gt;=0; $VAR$--){
+  $END$
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8C136181D9D094AB708D644C83182FC/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8C136181D9D094AB708D644C83182FC/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8C136181D9D094AB708D644C83182FC/Categories/=Imported_0020JScript_0020Snippets/@EntryIndexedValue">Imported JScript Snippets</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8C136181D9D094AB708D644C83182FC/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8C136181D9D094AB708D644C83182FC/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8C136181D9D094AB708D644C83182FC/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/Type/@EntryValue">InJavaScriptStatement</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8C136181D9D094AB708D644C83182FC/Field/=VAR/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8C136181D9D094AB708D644C83182FC/Field/=VAR/Expression/@EntryValue">suggestIndexVariable()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8C136181D9D094AB708D644C83182FC/Field/=VAR/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8C136181D9D094AB708D644C83182FC/Field/=LENGTH/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8C136181D9D094AB708D644C83182FC/Field/=LENGTH/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=55CC1DDAD01CCA419331EF65EB32155D/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=55CC1DDAD01CCA419331EF65EB32155D/Shortcut/@EntryValue">fun</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=55CC1DDAD01CCA419331EF65EB32155D/Text/@EntryValue">function($parameters$){
+  $END$
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=55CC1DDAD01CCA419331EF65EB32155D/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=55CC1DDAD01CCA419331EF65EB32155D/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=55CC1DDAD01CCA419331EF65EB32155D/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=55CC1DDAD01CCA419331EF65EB32155D/Scope/=0FC5D7331749CF4293F31310DBE1C7B3/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=55CC1DDAD01CCA419331EF65EB32155D/Scope/=0FC5D7331749CF4293F31310DBE1C7B3/Type/@EntryValue">InJavaScriptExpression</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=55CC1DDAD01CCA419331EF65EB32155D/Field/=parameters/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=55CC1DDAD01CCA419331EF65EB32155D/Field/=parameters/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF722B439AFDC04C9B8EBB9B8F5ADAEB/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF722B439AFDC04C9B8EBB9B8F5ADAEB/Shortcut/@EntryValue">function</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF722B439AFDC04C9B8EBB9B8F5ADAEB/Description/@EntryValue">Code snippet for a function</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF722B439AFDC04C9B8EBB9B8F5ADAEB/Text/@EntryValue">function $name$($parameters$){
+  $END$
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF722B439AFDC04C9B8EBB9B8F5ADAEB/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF722B439AFDC04C9B8EBB9B8F5ADAEB/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF722B439AFDC04C9B8EBB9B8F5ADAEB/Categories/=Imported_0020JScript_0020Snippets/@EntryIndexedValue">Imported JScript Snippets</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF722B439AFDC04C9B8EBB9B8F5ADAEB/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF722B439AFDC04C9B8EBB9B8F5ADAEB/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF722B439AFDC04C9B8EBB9B8F5ADAEB/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/Type/@EntryValue">InJavaScriptStatement</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF722B439AFDC04C9B8EBB9B8F5ADAEB/Field/=name/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF722B439AFDC04C9B8EBB9B8F5ADAEB/Field/=name/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF722B439AFDC04C9B8EBB9B8F5ADAEB/Field/=parameters/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF722B439AFDC04C9B8EBB9B8F5ADAEB/Field/=parameters/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B89212646B6234389C8BAF07A788E07/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B89212646B6234389C8BAF07A788E07/Shortcut/@EntryValue">if</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B89212646B6234389C8BAF07A788E07/Description/@EntryValue">Code snippet for an if statement</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B89212646B6234389C8BAF07A788E07/Text/@EntryValue">if ($COND$){
+  $END$
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B89212646B6234389C8BAF07A788E07/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B89212646B6234389C8BAF07A788E07/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B89212646B6234389C8BAF07A788E07/Categories/=Imported_0020JScript_0020Snippets/@EntryIndexedValue">Imported JScript Snippets</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B89212646B6234389C8BAF07A788E07/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B89212646B6234389C8BAF07A788E07/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B89212646B6234389C8BAF07A788E07/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/Type/@EntryValue">InJavaScriptStatement</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B89212646B6234389C8BAF07A788E07/Field/=COND/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B89212646B6234389C8BAF07A788E07/Field/=COND/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FC2CD9378E158A4082B8CD225D7D7C22/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FC2CD9378E158A4082B8CD225D7D7C22/Shortcut/@EntryValue">itar</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FC2CD9378E158A4082B8CD225D7D7C22/Text/@EntryValue">for (var $INDEX$=0;$INDEX$&lt;$ARRAY$.length;$INDEX$++){
+var $VAR$ = $ARRAY$[$INDEX$];$END$
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FC2CD9378E158A4082B8CD225D7D7C22/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FC2CD9378E158A4082B8CD225D7D7C22/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FC2CD9378E158A4082B8CD225D7D7C22/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FC2CD9378E158A4082B8CD225D7D7C22/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FC2CD9378E158A4082B8CD225D7D7C22/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/Type/@EntryValue">InJavaScriptStatement</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FC2CD9378E158A4082B8CD225D7D7C22/Field/=ARRAY/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FC2CD9378E158A4082B8CD225D7D7C22/Field/=ARRAY/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FC2CD9378E158A4082B8CD225D7D7C22/Field/=INDEX/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FC2CD9378E158A4082B8CD225D7D7C22/Field/=INDEX/Expression/@EntryValue">suggestIndexVariable()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FC2CD9378E158A4082B8CD225D7D7C22/Field/=INDEX/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FC2CD9378E158A4082B8CD225D7D7C22/Field/=VAR/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FC2CD9378E158A4082B8CD225D7D7C22/Field/=VAR/Expression/@EntryValue">suggestVariableName()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FC2CD9378E158A4082B8CD225D7D7C22/Field/=VAR/Order/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8F76C6B9CDEB424090C9C702180779AA/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8F76C6B9CDEB424090C9C702180779AA/Shortcut/@EntryValue">switch</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8F76C6B9CDEB424090C9C702180779AA/Description/@EntryValue">Code snippet for a switch statement</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8F76C6B9CDEB424090C9C702180779AA/Text/@EntryValue">switch ($EXPR$){
+case $CASE1$: 
+$END$
+default:
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8F76C6B9CDEB424090C9C702180779AA/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8F76C6B9CDEB424090C9C702180779AA/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8F76C6B9CDEB424090C9C702180779AA/Categories/=Imported_0020JScript_0020Snippets/@EntryIndexedValue">Imported JScript Snippets</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8F76C6B9CDEB424090C9C702180779AA/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8F76C6B9CDEB424090C9C702180779AA/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8F76C6B9CDEB424090C9C702180779AA/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/Type/@EntryValue">InJavaScriptStatement</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8F76C6B9CDEB424090C9C702180779AA/Field/=EXPR/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8F76C6B9CDEB424090C9C702180779AA/Field/=EXPR/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8F76C6B9CDEB424090C9C702180779AA/Field/=CASE1/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8F76C6B9CDEB424090C9C702180779AA/Field/=CASE1/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17C355CA6ADBB4439EB1B06957C01F6E/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17C355CA6ADBB4439EB1B06957C01F6E/Shortcut/@EntryValue">try</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17C355CA6ADBB4439EB1B06957C01F6E/Description/@EntryValue">Code snippet for a try catch statement</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17C355CA6ADBB4439EB1B06957C01F6E/Text/@EntryValue">try {
+  $END$
+} catch (e) {
+ 
+} </s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17C355CA6ADBB4439EB1B06957C01F6E/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17C355CA6ADBB4439EB1B06957C01F6E/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17C355CA6ADBB4439EB1B06957C01F6E/Categories/=Imported_0020JScript_0020Snippets/@EntryIndexedValue">Imported JScript Snippets</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17C355CA6ADBB4439EB1B06957C01F6E/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17C355CA6ADBB4439EB1B06957C01F6E/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17C355CA6ADBB4439EB1B06957C01F6E/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/Type/@EntryValue">InJavaScriptStatement</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E76894E584650B41B852C4A9939C174D/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E76894E584650B41B852C4A9939C174D/Shortcut/@EntryValue">while</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E76894E584650B41B852C4A9939C174D/Description/@EntryValue">Code snippet for a while loop</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E76894E584650B41B852C4A9939C174D/Text/@EntryValue">while ($COND$){
+  $END$
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E76894E584650B41B852C4A9939C174D/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E76894E584650B41B852C4A9939C174D/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E76894E584650B41B852C4A9939C174D/Categories/=Imported_0020JScript_0020Snippets/@EntryIndexedValue">Imported JScript Snippets</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E76894E584650B41B852C4A9939C174D/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E76894E584650B41B852C4A9939C174D/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E76894E584650B41B852C4A9939C174D/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/Type/@EntryValue">InJavaScriptStatement</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E76894E584650B41B852C4A9939C174D/Field/=COND/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E76894E584650B41B852C4A9939C174D/Field/=COND/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=11E3B36E682EBE4D9E7E3AE28DD31C27/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=11E3B36E682EBE4D9E7E3AE28DD31C27/Shortcut/@EntryValue">with</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=11E3B36E682EBE4D9E7E3AE28DD31C27/Description/@EntryValue">Code snippet for a with statement</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=11E3B36E682EBE4D9E7E3AE28DD31C27/Text/@EntryValue">with ($EXPR$){
+  $END$
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=11E3B36E682EBE4D9E7E3AE28DD31C27/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=11E3B36E682EBE4D9E7E3AE28DD31C27/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=11E3B36E682EBE4D9E7E3AE28DD31C27/Categories/=Imported_0020JScript_0020Snippets/@EntryIndexedValue">Imported JScript Snippets</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=11E3B36E682EBE4D9E7E3AE28DD31C27/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=11E3B36E682EBE4D9E7E3AE28DD31C27/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=11E3B36E682EBE4D9E7E3AE28DD31C27/Scope/=3C1322ECA9DA8846892FCF908DDAFEE7/Type/@EntryValue">InJavaScriptStatement</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=11E3B36E682EBE4D9E7E3AE28DD31C27/Field/=EXPR/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=11E3B36E682EBE4D9E7E3AE28DD31C27/Field/=EXPR/Order/@EntryValue">0</s:Int64></wpf:ResourceDictionary>

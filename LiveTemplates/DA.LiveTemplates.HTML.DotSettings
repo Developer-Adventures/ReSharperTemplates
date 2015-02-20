@@ -1,0 +1,29 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=BA76A78FB5D46A4C8769FA6DD0ECC17F/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=BA76A78FB5D46A4C8769FA6DD0ECC17F/Shortcut/@EntryValue">t</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=BA76A78FB5D46A4C8769FA6DD0ECC17F/Description/@EntryValue">Create tag</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=BA76A78FB5D46A4C8769FA6DD0ECC17F/Text/@EntryValue">&lt;$TAG$&gt;$END$&lt;/$TAG$&gt;</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=BA76A78FB5D46A4C8769FA6DD0ECC17F/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=BA76A78FB5D46A4C8769FA6DD0ECC17F/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=BA76A78FB5D46A4C8769FA6DD0ECC17F/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=BA76A78FB5D46A4C8769FA6DD0ECC17F/Scope/=EC16BB1B4B2C4B4FADC44DADB6F63F97/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=BA76A78FB5D46A4C8769FA6DD0ECC17F/Scope/=EC16BB1B4B2C4B4FADC44DADB6F63F97/Type/@EntryValue">InHtmlTag</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=BA76A78FB5D46A4C8769FA6DD0ECC17F/Scope/=2DD0981E9795BF468F5E05C3949B8ACE/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=BA76A78FB5D46A4C8769FA6DD0ECC17F/Scope/=2DD0981E9795BF468F5E05C3949B8ACE/Type/@EntryValue">InRazorTag</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=BA76A78FB5D46A4C8769FA6DD0ECC17F/Field/=TAG/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=BA76A78FB5D46A4C8769FA6DD0ECC17F/Field/=TAG/Expression/@EntryValue">suggestTagName()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=BA76A78FB5D46A4C8769FA6DD0ECC17F/Field/=TAG/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=735D64CCB42F2548A5F993B5BFF8C381/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=735D64CCB42F2548A5F993B5BFF8C381/Shortcut/@EntryValue">tc</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=735D64CCB42F2548A5F993B5BFF8C381/Description/@EntryValue">Create closed tag</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=735D64CCB42F2548A5F993B5BFF8C381/Text/@EntryValue">&lt;$TAG$ $END$/&gt;</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=735D64CCB42F2548A5F993B5BFF8C381/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=735D64CCB42F2548A5F993B5BFF8C381/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=735D64CCB42F2548A5F993B5BFF8C381/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=735D64CCB42F2548A5F993B5BFF8C381/Scope/=EC16BB1B4B2C4B4FADC44DADB6F63F97/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=735D64CCB42F2548A5F993B5BFF8C381/Scope/=EC16BB1B4B2C4B4FADC44DADB6F63F97/Type/@EntryValue">InHtmlTag</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=735D64CCB42F2548A5F993B5BFF8C381/Scope/=2DD0981E9795BF468F5E05C3949B8ACE/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=735D64CCB42F2548A5F993B5BFF8C381/Scope/=2DD0981E9795BF468F5E05C3949B8ACE/Type/@EntryValue">InRazorTag</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=735D64CCB42F2548A5F993B5BFF8C381/Field/=TAG/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=735D64CCB42F2548A5F993B5BFF8C381/Field/=TAG/Expression/@EntryValue">suggestTagName()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=735D64CCB42F2548A5F993B5BFF8C381/Field/=TAG/Order/@EntryValue">0</s:Int64></wpf:ResourceDictionary>
