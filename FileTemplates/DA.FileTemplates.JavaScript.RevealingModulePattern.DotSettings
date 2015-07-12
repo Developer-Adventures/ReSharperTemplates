@@ -1,0 +1,77 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Description/@EntryValue">RMP</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Text/@EntryValue">; // This is to make sure another javascript file not closing properly does not break us during bundling&#xD;
+&#xD;
+//============================================================&#xD;
+// Name: $Area$.$ControllerName$.$ModuleName$&#xD;
+// Version: 1.0.0&#xD;
+// Summary:&#xD;
+//      $Description$&#xD;
+//&#xD;
+// Usage:&#xD;
+//		$Usage$&#xD;
+// &#xD;
+// Revision History:&#xD;
+// Version	Date		Person			Description&#xD;
+// =======	=====		============    ================&#xD;
+// 1.0.0    $Date$	    $Name$			Created template.&#xD;
+//============================================================&#xD;
+&#xD;
+// The name of the area being worked with, e.g. AssetManagement&#xD;
+var $Area$; &#xD;
+&#xD;
+(function ($Area$) {&#xD;
+	// The name of the controller being worked with, minus the word 'Controller', e.g. UserAccess&#xD;
+    var $ControllerName$; &#xD;
+&#xD;
+    (function ($ControllerName$) {&#xD;
+        'use strict';&#xD;
+&#xD;
+		// Name of Module&#xD;
+        var $ModuleName$ = (function ($, window, document, undefined) {&#xD;
+            var self = this;&#xD;
+&#xD;
+            function _applyUIBindings() {&#xD;
+                var that = this;&#xD;
+            };&#xD;
+&#xD;
+            // _init is mapped to init in the return and it can &#xD;
+            // be parameterless or with parameters. It should &#xD;
+            // call _applyUIBindings so that it may remain private&#xD;
+            function _init() {&#xD;
+                _applyUIBindings();&#xD;
+            };&#xD;
+                &#xD;
+            // The Public API for the module. &#xD;
+            return {&#xD;
+                init: _init // init must be exposed. Any other function can remain private, but init must be public&#xD;
+            }&#xD;
+        }); // Do not immediatly initialize the module, this will be done in the page's code&#xD;
+&#xD;
+        $ControllerName$.$ModuleName$ = $ModuleName$;&#xD;
+    })($ControllerName$ = $Area$.$ControllerName$ || ($Area$.$ControllerName$ = {}));&#xD;
+})($Area$ = $Area$ || ($Area$ = {}));// This closure makes sure we either A) use the existing module if it is created or B) create a new one</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/CustomProperties/=FileName/@EntryIndexedValue">RevealingModulePatter</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/CustomProperties/=Extension/@EntryIndexedValue">js$ControllerName$</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/CustomProperties/=ValidateFileName/@EntryIndexedValue">False</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Scope/=139FF4CE89E7094686FDA7BF5FFBBE92/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Scope/=139FF4CE89E7094686FDA7BF5FFBBE92/Type/@EntryValue">Everywhere</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Field/=Area/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Field/=Area/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Field/=ControllerName/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Field/=ControllerName/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Field/=ModuleName/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Field/=ModuleName/Order/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Field/=Description/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Field/=Description/Order/@EntryValue">3</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Field/=Usage/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Field/=Usage/Order/@EntryValue">4</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Field/=Date/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Field/=Date/Expression/@EntryValue">getCurrentDate("yyyy-MM-dd")</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Field/=Date/Order/@EntryValue">5</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Field/=Name/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5E96EE2A221A5C489DF0AE1BD7BFA158/Field/=Name/Order/@EntryValue">6</s:Int64></wpf:ResourceDictionary>
